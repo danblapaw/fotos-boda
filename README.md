@@ -3,6 +3,7 @@
 Web de una sola página para que los invitados hagan fotos con su móvil, las suban a una nube compartida y descarguen las que quieran.
 
 - **Hacer una foto** → abre la cámara del móvil → *Subir a la nube* o *Descartar*.
+- **Subir desde mi galería** → abre el carrete del móvil para elegir hasta 20 fotos a la vez; se revisan en una cuadrícula (se puede quitar alguna) y se suben de una en una.
 - **Ver todas las fotos** → galería con todas las fotos subidas.
 - Las fotos que subes tú aparecen marcadas como **Tuya** y puedes **borrarlas durante los 10 minutos** siguientes a subirlas (límite de Cloudinary sin servidor). Pasado ese plazo, solo los novios pueden borrarlas desde la Media Library.
 - Cada foto tiene botón de **descarga** (en iPhone abre la hoja de compartir → "Guardar imagen"; en Android se descarga directamente).
